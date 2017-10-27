@@ -1,0 +1,4 @@
+/.paket/
+packages/
+paket-files/
+UmbracoTraceLog.zip
